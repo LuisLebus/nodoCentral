@@ -1,0 +1,205 @@
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000504 00000044 t Board_LED_Init
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000548 00000040 t Board_TEC_Init
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000588 00000040 t Board_GPIO_Init
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0005c8 00000030 t Board_ADC_Init
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0005f8 00000038 t Board_SPI_Init
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000630 00000024 t Board_I2C_Init
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001d20 00000008 t GpioButtons
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001d28 0000000c t GpioLeds
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001d34 00000012 t GpioPorts
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001d4c 00000004 t InitClkStates
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001d50 00000074 t pinmuxing
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000760 0000002c t Chip_UART_GetIndex
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001dc4 00000008 t UART_BClock
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001dcc 00000008 t UART_PClock
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0008fc 00000014 t Chip_ADC_GetClockIndex
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000910 00000032 t getClkDiv
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0009c4 000000a0 t pll_calc_divs
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000a64 0000010c t pll_get_frac
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000b70 0000004c t Chip_Clock_FindBaseClock
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000de4 00000022 t Chip_Clock_GetDivRate
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:10000048 00000008 b audio_usb_pll_freq
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001de0 0000006c t periph_to_base
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001e4c 00000048 t InitClkStates
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0010c0 00000014 t Chip_SSP_GetClockIndex
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0010d4 00000018 t Chip_SSP_GetPeriphClockIndex
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:10000000 00000038 d i2c
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:10000038 00000004 d ClockSpeed
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001e94 00000048 t lpcUarts
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:10000050 00000004 b callBackFuncParams
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:10000058 00000008 b tickCounter
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:10000060 00000004 b tickHookFunction
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0014ec 00000034 t gpioObtainPinInit
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:10000064 00000004 b g_hUsb
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001fc8 t __init_array_end
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001fc4 b __preinit_array_end
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001fc4 t __init_array_start
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001fc4 b __preinit_array_start
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000c08 0000001c T Chip_Clock_GetDividerSource
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W TIMER2_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001274 00000014 T uartRxRead
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000184 00000002 W DebugMon_Handler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W RIT_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a080000 A __top_MFlashA512
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W ADCHS_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000114 T __section_table_start
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W FLASH_EEPROM_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W I2C0_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001318 0000001e T uartReadByte
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0006a8 00000008 T __stdio_init
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001888 0000003e T delayRead
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a00017a 00000002 W HardFault_Handler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000000 A __vectors_start__
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0009b6 0000000c T Chip_ADC_SetResolution
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0014c0 0000002c T SysTick_Handler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0007e0 00000040 T Chip_UART_SetBaud
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000474 00000002 W initialise_monitor_handles
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W SDIO_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W ATIMER_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000186 00000002 W PendSV_Handler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000178 00000002 W NMI_Handler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001fd0 R __exidx_end
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000150 T __data_section_table_end
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W I2C1_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W UART1_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W GPIO5_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W CAN1_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:53ff7416 A __valid_user_code_checksum
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001fd0 R _etext
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W USB1_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W I2S0_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001336 00000080 T waitForReceiveStringOrTimeout
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W TIMER3_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000e86 0000000c T Chip_Clock_GetBaseClocktHz
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W UART0_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001a8 00000012 T bss_init
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W SGPIO_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0018c8 T __aeabi_uldivmod
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:10000070 ? _noinit
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a00140a 00000016 T uartWriteString
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:10000068 00000004 B SystemCoreClock
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a00078c 00000054 T Chip_UART_Init
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W ADC0_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000180 00000002 W UsageFault_Handler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000f04 0000004c T Chip_Clock_GetRate
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W GPIO6_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0006e8 0000006c T Board_SetupClocking
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:20008000 A __top_RamAHB32
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0018f8 000002d0 T __udivmoddi4
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000300 00000030 T hc05Test
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001d1c 00000004 T ExtRateIn
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W IntDefaultHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000300 T __CRP_WORD_END__
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W GPIO1_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W SSP0_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001244 00000018 T uartRxReady
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001fc8 R __exidx_start
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0002fc 00000004 T CRP_WORD
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001bcc 00000048 T __libc_init_array
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W ADC1_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000678 00000030 T Board_Init
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000502 00000002 W _init
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000114 T __data_section_table
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W RTC_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:10000070 B _ebss
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W TIMER0_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000478 00000088 T Reset_Handler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001444 0000007c T tickInit
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:20010000 A __top_RamAHB_ETB16
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W SPI_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0011b8 00000038 T Chip_I2C_SetClockRate
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W LCD_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000bbc 0000004c T Chip_Clock_EnableCrystal
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:10008000 A __top_RamLoc32
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a00018a 0000001e T data_init
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W TIMER1_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001194 00000024 T Chip_I2C_Init
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W UART2_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000d78 0000006c T Chip_Clock_GetMainPLLHz
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001edc 000000e6 T gpioPinsInit
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000330 00000028 T hc05PrintATCommands
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0013f0 0000001a T uartWriteByte
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0010ec 00000012 T Chip_SSP_SetClockRate
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W GPIO2_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000e60 00000026 T Chip_Clock_GetBaseClock
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:10000048 B _bss
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000984 00000032 T Chip_ADC_SetSampleRate
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001868 00000020 T delayInit
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W I2S1_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0010fe 0000003e T Chip_SSP_SetBitRate
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000f64 00000002 T Chip_GPIO_Init
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001d48 00000004 T OscRateIn
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a00129c 0000007c T uartInit
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:10000070 ? _end_noinit
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:10008000 A _vStackTop
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W SSP1_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000178 T __bss_section_table_end
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001520 000001ac T gpioInit
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001bc8 00000002 W __aeabi_ldiv0
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0017a0 0000001c T USB0_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W GPIO3_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W SCT_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000c24 0000001c T Chip_Clock_GetDividerDivisor
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0002fc T __CRP_WORD_START__
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001c14 00000010 T memset
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a00017c 00000002 W MemManage_Handler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000358 0000011c T main
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W WDT_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:2000c000 A __top_RamAHB16
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1008a000 A __top_RamLoc40
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000182 00000002 W SVC_Handler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a00125c 00000018 T uartTxReady
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W GPIO7_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000e94 0000003c T Chip_Clock_EnableOpts
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000c40 000000b8 T Chip_Clock_GetClockInputHz
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000cf8 00000080 T Chip_Clock_CalcMainPLLValue
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0011f0 00000038 T SystemInit
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W SPIFI_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001830 00000038 T delay
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W QEI_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000150 T __bss_section_table
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0016cc 0000006a T gpioWrite
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000500 00000002 W _fini
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000944 00000040 T Chip_ADC_Init
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1000006c 00000004 B g_pUsbApi
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0006b0 00000038 T Board_SetupMuxing
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000820 000000dc T Chip_UART_SetBaudFDR
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001420 0000000c T tickRead
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:10000040 00000008 D tickRateMS
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W ETH_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:10000000 ? _end_uninit_RESERVED
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0013b6 0000003a T waitForReceiveStringOrTimeoutBlocking
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001288 00000014 T uartTxWrite
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W CAN0_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:10000000 D _data
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:10000070 B _pvHeapStart
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000178 T __section_table_end
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a00113c 00000038 T Chip_SSP_Init
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W GINT0_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W DAC_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000654 00000024 T Board_Debug_Init
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:10000048 D _edata
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001174 00000020 T Chip_I2C_EventHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W M0SUB_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000f68 00000158 T Chip_SetupCoreClock
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W GPIO0_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000000 00000040 T g_pfnVectors
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000f50 00000014 T SystemCoreClockUpdate
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W DMA_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W EVRT_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1b080000 A __top_MFlashB512
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001bc8 00000002 W __aeabi_idiv0
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a00017e 00000002 W BusFault_Handler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000ed0 00000034 T Chip_Clock_Enable
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W UART3_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W MCPWM_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W M0APP_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001736 00000068 T gpioRead
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0017bc 00000074 T boardInit
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000040 000000d4 T g_pfnVendorVectors
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W GINT1_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a00142c 00000018 T tickPowerSet
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000e08 00000058 T Chip_Clock_SetBaseClock
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a001228 0000001c T cyclesCounterInit
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a0001ba 00000002 W GPIO4_IRQHandler
+examples/c/sapi/bluetooth/hc05_uart_bridge/out/hc05_uart_bridge.elf:1a000754 0000000c T Board_SystemInit
